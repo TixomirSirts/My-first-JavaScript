@@ -25,20 +25,20 @@
   + PascalCase
   + camelCase
 + Правилах объявления переменных:
-  + var
-  + let
-  + const
+  + `var`
+  + `let`
+  + `const`
 + Типах данных (9):
   + Примитивные (6):
-    1. undefined
-    2. boolean
-    3. number
-    4. string
-    5. bigint
-    6. symbol
-  + null
-  + object
-  + function
+    1. `undefined`
+    2. `boolean`
+    3. `number`
+    4. `string`
+    5. `bigint`
+    6. `symbol`
+  + `null`
+  + `object`
+  + `function`
 + Литерал.
 + Массив, цикл, функция.
 + Function declaration и Function expression
